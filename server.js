@@ -296,7 +296,7 @@ app.post('/user/dashboard', urlencodedParser, (req, res) => {
     date = date.toDateString();
 
     //check if post request is coming from login or create_account page
-    if (req.header('Referer') == 'http://localhost:3000/create_account') {
+    if (req.header('Referer') == `http://localhost:${port}/create_account`) {
         //create account
         //exists() returns a pending promise which is fulfilled to either return true or false
         userCollection.exists({ email: user.email })
