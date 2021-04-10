@@ -1,4 +1,4 @@
-# Node.js APP
+# Node.js App
 # Purpose
 A testing platform for metacognition researchers that require centralized access to metacognition tests, assessments, and data storage for their studies.
 
