@@ -12,9 +12,9 @@ Digit Span Cognitive Test
 Cloud Storage for Research Data
 
 ## Technologies
-Express.js 
-Express-session 
-MongoDB 
-Mongoose 
-Bootstrap 
-Pug
+Express.js  
+Express-session  
+MongoDB  
+Mongoose  
+Bootstrap  
+Pug  
