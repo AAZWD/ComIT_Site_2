@@ -6,10 +6,10 @@ A testing platform for metacognition researchers that require centralized access
 Clinicians interested in metacognition
 
 ## Features
-Metacognition Questionnaire  
-Multi-factorial Memory Questionnaire 
-Digit Span Cognitive Test 
-Cloud Storage for Research Data
+Metacognition Questionnaire   
+Multi-factorial Memory Questionnaire  
+Digit Span Cognitive Test  
+Cloud Storage for Research Data 
 
 ## Technologies
 Express.js  
